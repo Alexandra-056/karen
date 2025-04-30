@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<head>
+    <title> Clon_Repos </title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <h1>GATOS!</h1>
+    <p>Los gatos (Felis catus) son mamíferos domésticos muy populares como mascotas en todo el mundo.<br> Son conocidos
+        por su comportamiento independiente, su agilidad y su capacidad para cazar pequeños animales.</p>
+
+        <h2>CARACTERISTICAS FISICAS</h2>
+        <ul>
+            <li>Tienen cuerpo agil</li>
+            <li>Poseen garras retractiles</li>
+            <li>Su pelaje puede variar en color, textura y largo</li>
+            <li>Tienen una excelente vision nocturna</li>
+        </ul>
+
+        <h3>LAS RAZAS DE GATOS MAS COMUNES SON:</h3>
+        <ol>
+            <li>Mestizo Europeo</li>
+            <ul>
+                <li>No es raza pura, pero es la mas comun</li>
+                <li>Gran variedad de colores y personalidades</li>
+            </ul>
+            <li>Persa</li>
+            <ul>
+                <li>Muy popular por su belleza</li>
+                <li>Necesita cuidados regulares por pelaje</li>
+            </ul>
+            <li>Siames</li>
+            <ul>
+                <li>Muy conocido por su voz y ojos azules</li>
+                <li>Sociable y comunicativo</li>
+<li> Gatos cariñosos<li>
+            </ul>
+        </ol>
+        
+
+        <table>
+            <tr>
+                <th>Ventajas</th>
+                <th>Desventajas</th>
+            </tr>
+            <tr>
+                <td>Son animales limpios y se asean solos</td>
+                <td>Pueden soltar mucho pelo</td>
+            </tr>
+            <tr>
+                <td>No requieren paseos diarios</td>
+                <td>Algunos pueden ser ariscos</td>
+            </tr>
+            <tr>
+                <td>Ocupan poco espacio</td>
+                <td>Pueden arañar muebles si no tienen rascador</td>
+            </tr>
+            <tr>
+                <td>Pueden estar solos por dias</td>
+                <td>Suelen ser mas activos en la noche</td>
+            </tr>
+            <tr>
+                <td>Ayudan a controlar plagas</td>
+                <td>La caja de arena necesita constante limpieza</td>
+            </tr>
+        </table>
+
+
+
+</body>
